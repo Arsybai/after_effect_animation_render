@@ -1,2 +1,6 @@
-# after_effect_animation_render
-Lottie Animation. 
+# Lottie Nico
+---
+Just a sample app.
+
+this app render after effect animation (json).
+json file at `assets` directory
